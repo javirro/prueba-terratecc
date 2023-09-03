@@ -1,0 +1,27 @@
+.hovered-aside {
+  position: fixed;
+  height: 100%;
+  color: white;
+  overflow-y: auto;
+  border-right: 1px solid white;
+}
+
+.info-aside-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chains-aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chains-title-line {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}

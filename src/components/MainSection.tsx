@@ -8,12 +8,12 @@ const MainSection = () => {
   return (
     <section className="main-section">
       <section className="chains-dashboard-container">
-        <h2>CHAINS DASHBOARD</h2>
+        <h2 className='chains-text'>CHAINS DASHBOARD</h2>
         <img src={centraLimg} alt="chains dashboard" />
       </section>
 
       <section className="delots-container">
-        <h3>DELOTS</h3>
+        <h3 className="delots-text">DELOTS</h3>
         <div className="networks-grid">
           {networks.map((network) => (
             <NetworkItem network={network} key={network.name} />
