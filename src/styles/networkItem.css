@@ -1,0 +1,91 @@
+.network-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  outline: 1px solid #646464;
+}
+
+.tickets-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  width: 100%;
+  border-top: 1px solid #646464;
+  border-bottom: 1px solid #646464;
+}
+
+.tickets-individual {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 0px;
+}
+
+.bl {
+  border-left: 1px solid #646464;
+}
+.tickets-available-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.go-to-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 5px;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.network-name {
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+  padding: 10px 5px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  text-shadow: 0 0 12px;
+}
+
+.arrow-img {
+  width: 16px;
+  height: 16px;
+}
+
+.jackpot-title {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.tickets {
+  color: #f6019d;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.tickets-available-text {
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 2;
+}
+
+.tickets-percentage {
+  color: #6fe9c9;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 2;
+}

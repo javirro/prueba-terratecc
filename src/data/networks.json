@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ethereum",
+    "jackpot": "4000",
+    "tickets": "4,000",
+    "ticketsPercentage": "40%",
+    "token": "Eth",
+    "networkName": "Eth"
+  },
+  {
+    "name": "Binance Smart Chain",
+    "jackpot": "15000",
+    "tickets": "1,500",
+    "ticketsPercentage": "15%",
+    "token": "BNB",
+    "networkName": "BSC"
+  },
+  {
+    "name": "Polygon",
+    "jackpot": "25000",
+    "tickets": "4000",
+    "ticketsPercentage": "40%",
+    "token": "MATIC",
+    "networkName": "Polygon"
+  },
+  {
+    "name": "Cronos",
+    "jackpot": "17000",
+    "tickets": "1,500",
+    "ticketsPercentage": "15%",
+    "token": "BNB",
+    "networkName": "Cronos"
+  }
+]
