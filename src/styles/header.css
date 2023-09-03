@@ -18,5 +18,9 @@
   border-bottom-right-radius: 20px;
   border: 1px solid white;
   background-color: black;
-  color: white
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  box-shadow: 0 0 10px #6DF6FF;
+  cursor: pointer;
 }
