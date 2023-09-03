@@ -18,6 +18,7 @@ const AsideNavbar = () => {
     // You can add your custom logic here when the mouse leaves the image
   };
   return (
+
     <aside className="aside">
       <section className="aside-container">
           <img src={logo} alt="logo" className="aside-img" />
@@ -31,8 +32,9 @@ const AsideNavbar = () => {
           <img src={asideIcon3} alt="icon-3" className="aside-icon" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} />
         </article>
       </section>
-       {isHovered && <HoveredAside />}
+          {isHovered && <HoveredAside />}
     </aside>
+
   )
 }
 

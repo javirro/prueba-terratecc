@@ -18,10 +18,26 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
 }
 
 .chains-title-line {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+}
+
+.delot-title {
+  font-weight: 700;
+  font-size: 28px;
+  color: white;
+  text-shadow: 0 0 20px FF00A2;
+}
+
+.list-text {
+  list-style: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 2;
 }

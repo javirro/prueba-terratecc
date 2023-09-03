@@ -6,14 +6,11 @@ import MainSection from './components/MainSection'
 
 function App() {
   return (
-    <>
+     <main className="app">
      <AsideNavbar />
-    
-      <main className="app">
         <Header />
         <MainSection />
       </main>
-    </>
   )
 }
 
