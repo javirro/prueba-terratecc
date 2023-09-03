@@ -14,7 +14,7 @@ const AsideNavbar = () => {
   };
 
   const handleMouseLeave = () => {
-    setIsHovered(false);
+    //setIsHovered(false);
     // You can add your custom logic here when the mouse leaves the image
   };
   return (

@@ -1,12 +1,15 @@
 .aside {
   position: fixed;
+  left: 0;
+  top: 0;
   height: 100%;
+  width: 400px;
   color: white;
   overflow-y: auto;
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  flex: 1;
+  flex: 1 0 10%;
 }
 .aside-container {
   display: flex;

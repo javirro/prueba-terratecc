@@ -9,7 +9,7 @@ const MainSection = () => {
     <section className="main-section">
       <section className="chains-dashboard-container">
         <h2 className='chains-text'>CHAINS DASHBOARD</h2>
-        <img src={centraLimg} alt="chains dashboard" />
+        <img src={centraLimg} alt="chains dashboard" className='img-chains' />
       </section>
 
       <section className="delots-container">

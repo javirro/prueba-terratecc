@@ -3,6 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex: 1;
 }
 
 .chains-dashboard-container {
@@ -14,7 +15,7 @@
 
 .networks-grid {
   display: grid;
-  grid-template-columns: repeat(2, 500px) ;
+  grid-template-columns: repeat(2, 485px) ;
   gap: 30px;
 }
 
@@ -30,4 +31,8 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
+}
+
+.img-chains {
+  width: 1000px;
 }

@@ -1,8 +1,16 @@
-.app {
-  height: 100%;
+.app-container {
   display: flex;
   flex-direction: column;
-  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 1000px;
+  margin-left: 200px;
 
 }
-

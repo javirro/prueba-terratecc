@@ -1,0 +1,4810 @@
+/* aside */
+
+position: absolute;
+width: 471px;
+height: 2267px;
+left: 0px;
+top: 0px;
+
+
+
+/* general__nav */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 131px;
+height: 240px;
+left: 0px;
+top: 130px;
+
+/* main-color */
+border-bottom: 0.5px solid #FFFFFF;
+
+
+/* 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 10px;
+gap: 10px;
+
+width: 131px;
+height: 80px;
+
+/* accent-color */
+background: #F6019D;
+/* main-color */
+border-width: 0.5px 0px;
+border-style: solid;
+border-color: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 5px;
+top: 5px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 59.38%;
+top: 12.5%;
+bottom: 59.38%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 59.38%;
+right: 12.5%;
+top: 12.5%;
+bottom: 59.38%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 59.38%;
+top: 59.38%;
+bottom: 12.5%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 59.38%;
+right: 12.5%;
+top: 59.38%;
+bottom: 12.5%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* 2 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 10px;
+gap: 10px;
+
+width: 131px;
+height: 80px;
+
+/* main-color */
+border-width: 0.5px 0px;
+border-style: solid;
+border-color: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 5px;
+top: 5px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 72.49%;
+right: 12.5%;
+top: 42.5%;
+bottom: 42.5%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 42.5%;
+right: 42.5%;
+top: 24.32%;
+bottom: 60.68%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 42.5%;
+right: 42.5%;
+top: 60.68%;
+bottom: 24.31%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 56.71%;
+right: 36.25%;
+top: 35.08%;
+bottom: 60.42%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 66.67%;
+right: 26.29%;
+top: 54.04%;
+bottom: 41.46%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 72.49%;
+top: 42.5%;
+bottom: 42.5%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 36.25%;
+right: 56.71%;
+top: 60.42%;
+bottom: 35.08%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 26.29%;
+right: 66.67%;
+top: 41.46%;
+bottom: 54.04%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 75%;
+top: 75%;
+bottom: 12.5%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 75%;
+right: 12.5%;
+top: 12.5%;
+bottom: 75%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 75%;
+top: 12.5%;
+bottom: 75%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 75%;
+right: 12.5%;
+top: 75%;
+bottom: 12.5%;
+
+/* main-color */
+border: 1.5px solid #FFFFFF;
+
+
+/* 3 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 10px;
+gap: 10px;
+
+width: 131px;
+height: 80px;
+
+/* main-color */
+border-width: 0.5px 0px;
+border-style: solid;
+border-color: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* service */
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 5px;
+top: 3.81px;
+
+
+
+/* Group */
+
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 5px;
+top: 3.81px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 75%;
+top: 22.22%;
+bottom: 56.53%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 84.72%;
+bottom: 9.53%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 36.49%;
+right: 54.5%;
+top: 37.49%;
+bottom: 52.35%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 40.99%;
+right: 45.5%;
+top: 60.01%;
+bottom: 35.42%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 54.5%;
+right: 36.49%;
+top: 47.65%;
+bottom: 37.49%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 54.5%;
+right: 36.49%;
+top: 37.49%;
+bottom: 52.35%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 45.5%;
+right: 45.5%;
+top: 34.37%;
+bottom: 61.46%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 36.49%;
+right: 59.01%;
+top: 47.65%;
+bottom: 39.99%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 75%;
+right: 12.5%;
+top: 56.53%;
+bottom: 22.22%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* a */
+
+position: absolute;
+left: 75%;
+right: 12.5%;
+top: 22.22%;
+bottom: 56.53%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 9.53%;
+bottom: 84.72%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* b */
+
+position: absolute;
+left: 12.5%;
+right: 75%;
+top: 56.53%;
+bottom: 22.22%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+width: 30px;
+height: 22.22px;
+left: 5px;
+top: 8.89px;
+
+
+
+/* a */
+
+position: absolute;
+left: 75%;
+right: 12.5%;
+top: 22.22%;
+bottom: 56.53%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* b */
+
+position: absolute;
+left: 12.5%;
+right: 75%;
+top: 56.53%;
+bottom: 22.22%;
+
+/* main-color */
+border: 1px solid #FFFFFF;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 2267px;
+height: 0px;
+left: 131px;
+top: 0px;
+
+/* main-color */
+border: 0.5px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 2 */
+
+position: absolute;
+width: 131px;
+height: 0px;
+left: 131px;
+top: 130px;
+
+/* main-color */
+border: 0.5px solid #FFFFFF;
+transform: rotate(180deg);
+
+
+/* logo-1 */
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: calc(50% - 90px/2 - 169.5px);
+top: calc(50% - 90px/2 - 1068.5px);
+
+
+
+/* TOKEN DEF 2 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(Blue_00034);
+
+
+/* drop-down */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 13px;
+
+position: absolute;
+width: 340px;
+height: 802px;
+left: 131px;
+top: 110px;
+
+/* main-color */
+border-width: 0.5px 0px;
+border-style: solid;
+border-color: #FFFFFF;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 245px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* dashboard */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 3px;
+top: 3px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 35.77%;
+bottom: 35.91%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+
+
+/* title */
+
+width: 144px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* main-color */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+width: 20px;
+height: 20px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 50%;
+top: 41.67%;
+bottom: 25%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* etherium */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ethereum-svgrepo-com */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: calc(50% - 20px/2);
+top: calc(50% - 20px/2);
+
+
+
+/* Union */
+
+position: absolute;
+width: 10.27px;
+height: 16.72px;
+left: 4.84px;
+top: 1.6px;
+
+/* main-color */
+background: #FFFFFF;
+box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 24.41%;
+top: 55.47%;
+bottom: 8.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.22%;
+right: 24.41%;
+top: 8.01%;
+bottom: 34.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.22%;
+right: 50%;
+top: 8.01%;
+bottom: 8.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 24.41%;
+top: 38.87%;
+bottom: 34.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.22%;
+right: 50%;
+top: 38.87%;
+bottom: 34.18%;
+
+background: #FFFFFF;
+
+
+/* title */
+
+width: 124px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* bnb smart chain */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 51 */
+
+position: absolute;
+left: 12.5%;
+right: nan%;
+top: 8.33%;
+bottom: nan%;
+
+
+
+/* binancedex */
+
+position: absolute;
+visibility: hidden;
+left: 12.5%;
+right: 16.38%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #F3BA2F;
+
+
+/* image 34 */
+
+position: absolute;
+left: 7.5%;
+right: 9.17%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(BSC_00033);
+
+
+/* title */
+
+width: 210px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* MATIC */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+visibility: hidden;
+left: 10.23%;
+right: 6.44%;
+top: 12.5%;
+bottom: 14.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.23%;
+right: 6.44%;
+top: 12.5%;
+bottom: 14.18%;
+
+background: #8247E5;
+
+
+/* image 34 */
+
+position: absolute;
+left: 10.83%;
+right: 5.83%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00061);
+
+
+/* title */
+
+width: 112px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Arbitrum */
+
+width: 24px;
+height: 24px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 34 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Arb_00006);
+
+
+/* title */
+
+width: 117px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Cronos */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 281 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Cronos_00004);
+border-radius: 1000px;
+
+
+/* title */
+
+width: 105px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* xrp */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* xrp-symbol-black 1 */
+
+position: absolute;
+width: 12px;
+height: 10px;
+left: 6px;
+top: 7px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* main-color */
+background: #FFFFFF;
+box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.4);
+
+
+/* title */
+
+width: 81px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Litecoin */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+visibility: hidden;
+left: 8.33%;
+right: nan%;
+top: 8.33%;
+bottom: nan%;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #3C5BE0;
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 21.35%;
+right: 21.35%;
+top: 33.07%;
+bottom: 33.07%;
+
+background: #FFFFFF;
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* image 34 */
+
+position: absolute;
+left: 7.5%;
+right: 9.17%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00125);
+
+
+/* title */
+
+width: 111px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* BASE */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Layer 2 */
+
+position: absolute;
+visibility: hidden;
+left: 20.88%;
+right: 24.02%;
+top: 8.33%;
+bottom: 8.38%;
+
+
+
+/* Layer 1 2 2 */
+
+position: absolute;
+left: 20.88%;
+right: 24.02%;
+top: 8.33%;
+bottom: 8.38%;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 21.7%;
+right: 24.84%;
+top: 44.6%;
+bottom: 19.55%;
+
+background: #133444;
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 22.84%;
+right: 29.36%;
+top: 33.53%;
+bottom: 34.06%;
+
+background: #C42370;
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 20.83%;
+right: 24.02%;
+top: 56.22%;
+bottom: 8.33%;
+
+background: #1C4D6B;
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.78%;
+right: 51.57%;
+top: 33.51%;
+bottom: 63.16%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.78%;
+right: 51.57%;
+top: 39.17%;
+bottom: 34.01%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.43%;
+right: 25.94%;
+top: 39.17%;
+bottom: 34.01%;
+
+background: #1D4259;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.43%;
+right: 25.94%;
+top: 8.33%;
+bottom: 49.16%;
+
+background: #4B6B9A;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.79%;
+right: 51.57%;
+top: 36.89%;
+bottom: 34.06%;
+
+background: #343535;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.84%;
+right: 51.57%;
+top: 39.17%;
+bottom: 34.01%;
+
+background: #3E5578;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.84%;
+right: 51.57%;
+top: 8.33%;
+bottom: 49.16%;
+
+background: #6DB2D8;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.07%;
+right: 60.78%;
+top: 89.48%;
+bottom: 10.07%;
+
+background: #335F8A;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.22%;
+right: 59.6%;
+top: 89.93%;
+bottom: 9.66%;
+
+background: #335F8A;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.45%;
+right: 57.64%;
+top: 90.66%;
+bottom: 9.11%;
+
+background: #335F8A;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.88%;
+right: 51.57%;
+top: 56.22%;
+bottom: 12.96%;
+
+background: #6DB2D8;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.96%;
+right: 34.83%;
+top: 72.1%;
+bottom: 8.38%;
+
+background: #529BBA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.54%;
+right: 44.55%;
+top: 90.71%;
+bottom: 9.06%;
+
+background: #335F8A;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.46%;
+right: 42.36%;
+top: 89.93%;
+bottom: 9.66%;
+
+background: #335F8A;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.64%;
+right: 41.22%;
+top: 89.48%;
+bottom: 10.07%;
+
+background: #335F8A;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.43%;
+right: 24.02%;
+top: 56.22%;
+bottom: 12.98%;
+
+background: #4B6B9A;
+
+
+/* image 31 */
+
+position: absolute;
+left: 6.67%;
+right: 9.17%;
+top: 8.33%;
+bottom: -8.33%;
+
+background: url(Base_00012);
+
+
+/* title */
+
+width: 92px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Avalanche */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 28 */
+
+position: absolute;
+visibility: hidden;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 7.54%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 7.54%;
+
+background: #633001;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.01%;
+right: 11.49%;
+top: 59.59%;
+bottom: 10.96%;
+
+background: #FEDC90;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.01%;
+right: 11.75%;
+top: 11.75%;
+bottom: 16.75%;
+
+background: #D1884F;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.94%;
+right: 60.65%;
+top: 51.71%;
+bottom: 35.67%;
+
+background: #633001;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.12%;
+right: 31.47%;
+top: 51.71%;
+bottom: 35.67%;
+
+background: #633001;
+
+
+/* image 34 */
+
+position: absolute;
+left: 9.17%;
+right: 7.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00236);
+
+
+/* title */
+
+width: 129px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Shibarium */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+visibility: hidden;
+left: 19.83%;
+right: 4.26%;
+top: 10.94%;
+bottom: 7.84%;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 5.69%;
+right: 5.69%;
+top: 12.95%;
+bottom: 12.57%;
+
+background: linear-gradient(160.89deg, #03B8FF 2.27%, #FA52A0 54.6%);
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 21.72%;
+right: 4.16%;
+top: 8.12%;
+bottom: 33.71%;
+
+background: linear-gradient(159.64deg, #03B8FF 3.05%, #FA52A0 68.86%);
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+left: 4.39%;
+right: 21.72%;
+top: 33.33%;
+bottom: 8.12%;
+
+background: linear-gradient(159.82deg, #03B8FF -22.14%, #FA52A0 43.41%);
+/* Gray/8
+
+Previous style:
+Gray/8
+*/
+border: 1px solid #ADADAD;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.83%;
+right: 4.26%;
+top: 48.27%;
+bottom: 7.84%;
+
+background: #0E0F23;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.56%;
+right: 7.15%;
+top: 10.94%;
+bottom: 36.14%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.21%;
+right: 77.72%;
+top: 21.2%;
+bottom: 74.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.5%;
+right: 51.74%;
+top: 27.31%;
+bottom: 44.1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.1%;
+right: 25.94%;
+top: 65.28%;
+bottom: 32.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.97%;
+right: 13.33%;
+top: 66.81%;
+bottom: 31.13%;
+
+background: #FFFFFF;
+
+
+/* image 34 */
+
+position: absolute;
+left: 9.17%;
+right: 7.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00004);
+
+
+/* title */
+
+width: 127px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* EOS */
+
+width: 24px;
+height: 24px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 33 */
+
+position: absolute;
+left: 12.5%;
+right: 15.25%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00175);
+
+
+/* title */
+
+width: 83px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Fantom */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 31 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00151);
+
+
+/* title */
+
+width: 108px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Optimism */
+
+width: 24px;
+height: 24px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 32 */
+
+position: absolute;
+left: -10%;
+right: -6.67%;
+top: 8.33%;
+bottom: 4.17%;
+
+background: url(Optimism_00005);
+
+
+/* title */
+
+width: 123px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 14;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* MoonBeam */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 30 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Comp 1_00006);
+
+
+/* title */
+
+width: 136px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* drop-down */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 13px;
+
+position: absolute;
+width: 340px;
+height: 378px;
+left: 131px;
+top: 912px;
+
+/* main-color */
+border-width: 0.5px 0px;
+border-style: solid;
+border-color: #FFFFFF;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 245px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* dashboard */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 3px;
+top: 3px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 35.77%;
+bottom: 35.91%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+
+
+/* title */
+
+width: 189px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* main-color */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+width: 20px;
+height: 20px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 50%;
+top: 41.67%;
+bottom: 25%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 5 */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 13.9px;
+height: 13.33px;
+left: calc(50% - 13.9px/2 + 0.05px);
+top: calc(50% - 13.33px/2 + 0.3px);
+
+/* main-color */
+background: #FFFFFF;
+box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 39.29%;
+right: 39.2%;
+top: 31.83%;
+bottom: 29.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.24%;
+right: 20.83%;
+top: 23.49%;
+bottom: 20.99%;
+
+background: #FFFFFF;
+
+
+/* title */
+
+width: 96px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* USDT */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 33 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00302);
+
+
+/* title */
+
+width: 94px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* PayPal */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 33 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00095);
+border-radius: 100px;
+
+
+/* title */
+
+width: 139px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* busd */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mask */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Layer 2 */
+
+position: absolute;
+visibility: hidden;
+left: 12.5%;
+right: 12.72%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.56%;
+right: 40.85%;
+top: 12.5%;
+bottom: 54.69%;
+
+background: #F0B90B;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.56%;
+right: 26.79%;
+top: 26.56%;
+bottom: 26.56%;
+
+background: #F0B90B;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 68.97%;
+top: 40.62%;
+bottom: 40.62%;
+
+background: #F0B90B;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.62%;
+right: 12.72%;
+top: 40.62%;
+bottom: 12.5%;
+
+background: #F0B90B;
+
+
+/* image 34 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00214);
+
+
+/* title */
+
+width: 149px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* DAI */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DAI */
+
+position: absolute;
+visibility: hidden;
+left: 8.33%;
+right: 7.05%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* image 34 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(Coins_00293);
+
+
+/* title */
+
+width: 115px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* SHI */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 13 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: url(SHI_00005);
+border-radius: 48px;
+
+
+/* title */
+
+width: 77px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* drop-down */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 30px;
+gap: 13px;
+
+position: absolute;
+width: 340px;
+height: 166px;
+left: 131px;
+top: 1290px;
+
+/* main-color */
+border-width: 0.5px 0px;
+border-style: solid;
+border-color: #FFFFFF;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 245px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* dashboard */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 3px;
+top: 3px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 35.77%;
+bottom: 35.91%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+
+
+/* title */
+
+width: 133px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* main-color */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+width: 20px;
+height: 20px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 50%;
+top: 41.67%;
+bottom: 25%;
+
+/* accent-color */
+border: 1.5px solid #F6019D;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Community Bank */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+visibility: hidden;
+width: 18.14px;
+height: 18.14px;
+left: 2.86px;
+top: 2.98px;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 68.2%;
+right: 15.13%;
+top: 14.98%;
+bottom: 68.34%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 11.93%;
+right: 12.48%;
+top: 12.4%;
+bottom: 12.01%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 33.33%;
+bottom: 33.33%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* image 34 */
+
+position: absolute;
+left: 7.5%;
+right: 9.17%;
+top: 8.33%;
+bottom: 0%;
+
+background: url(Doge is the new gold party (1));
+
+
+/* title */
+
+width: 126px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* inline-menu-item/item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px;
+gap: 15px;
+
+width: 280px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* body */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 280px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Charity Bank */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+visibility: hidden;
+left: 22.92%;
+right: 22.92%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 22.92%;
+right: 22.92%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 34.21%;
+right: 34.21%;
+top: 12.5%;
+bottom: 61.59%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 22.92%;
+right: 22.92%;
+top: 33.33%;
+bottom: 12.5%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 47.92%;
+right: 47.92%;
+top: 58.12%;
+bottom: 31.25%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 46.88%;
+right: 46.87%;
+top: 51.79%;
+bottom: 41.96%;
+
+/* White
+
+FFFFFF
+*/
+border: 1.5px solid #FFFFFF;
+
+
+/* TOKEN IPAD 1 */
+
+position: absolute;
+left: 2.5%;
+right: 5.83%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: url(Doge is the new gold party (2));
+
+
+/* title */
+
+width: 94px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* gray-color */
+color: #DAD8D7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* badge-basic/S/Secondary/Gasic */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 9px;
+gap: 10px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+/* Primary/2
+
+Previous style:
+Primary/2
+*/
+background: #E7D9FC;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* arrow-down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 2265px;
+height: 0px;
+left: 471px;
+top: 2px;
+
+/* main-color */
+border: 0.5px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* nav-title */
+
+position: absolute;
+width: 93px;
+height: 39px;
+left: calc(50% - 93px/2 - 28px);
+top: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+/* main-color */
+color: #FFFFFF;
+
+/* accent-color */
+border: 1px solid #F6019D;
+text-shadow: 0px 0px 20px #FF00A2;
