@@ -3,6 +3,7 @@ import Header from './components/Header'
 import './App.css'
 import AsideNavbar from './components/AsideNavbar'
 import MainSection from './components/MainSection'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <section className="app">
         <Header />
         <MainSection />
+        <Footer />
       </section>
     </main>
   )
