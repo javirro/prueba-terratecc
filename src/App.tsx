@@ -1,9 +1,9 @@
-import React from 'react'
+
 import Header from './components/Header'
-import './App.css'
 import AsideNavbar from './components/AsideNavbar'
 import MainSection from './components/MainSection'
 import Footer from './components/Footer'
+import './App.css'
 
 function App() {
   return (
