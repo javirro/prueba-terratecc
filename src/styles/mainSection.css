@@ -15,7 +15,7 @@
 
 .networks-grid {
   display: grid;
-  grid-template-columns: repeat(2, 485px) ;
+  grid-template-columns: repeat(2, 455px) ;
   gap: 30px;
 }
 
@@ -34,5 +34,5 @@
 }
 
 .img-chains {
-  width: 1000px;
+  width: 920px;
 }

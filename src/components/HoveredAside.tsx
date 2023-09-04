@@ -28,7 +28,7 @@ const HoveredAside = () => {
         <h3 className="delot-title">DeLot</h3>
       </div>
       <div className="chains-aside">
-        <div className="flex-space-between">
+         <article className="chains-title-line">
           <img src={dashboardImg} alt="dashboard"  className='dashboard-img'/>
           <span className="title-drop">Chains dashboard</span>
           <img
@@ -37,7 +37,7 @@ const HoveredAside = () => {
             className={showChainsDropDown ? 'arrow-img' : 'arrow-img-inverse'}
             onClick={arrowClickChains}
           />
-        </div>
+        </article>
         {showChainsDropDown && (
           <ul>
             {asideNetworks.map((net) => (
