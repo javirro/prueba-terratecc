@@ -28,12 +28,10 @@ const HoveredAside = () => {
         <h3 className="delot-title">DeLot</h3>
       </div>
       <div className="chains-aside">
-        <div className='flex-space-between'>
-        <article className="chains-title-line">
-          <img src={dashboardImg} alt="dashboard" />
-          <span>Chains dashboard</span>
-        </article>
-             <img
+        <div className="flex-space-between">
+          <img src={dashboardImg} alt="dashboard"  className='dashboard-img'/>
+          <span className="title-drop">Chains dashboard</span>
+          <img
             src={arrow}
             alt="arrow"
             className={showChainsDropDown ? 'arrow-img' : 'arrow-img-inverse'}
@@ -52,8 +50,8 @@ const HoveredAside = () => {
       </div>
       <div className="chains-aside">
         <article className="chains-title-line">
-          <img src={dashboardImg} alt="dashboard" />
-          <span>Stable coins dashboard</span>
+          <img src={dashboardImg} alt="dashboard" className='dashboard-img'/>
+          <span className="title-drop">Stablecoins dashboard </span>
           <img
             src={arrow}
             alt="arrow"
@@ -73,8 +71,8 @@ const HoveredAside = () => {
       </div>
       <div className="chains-aside">
         <article className="chains-title-line">
-          <img src={dashboardImg} alt="dashboard" />
-          <span>Pools dashboard</span>
+          <img src={dashboardImg} alt="dashboard" className='dashboard-img' />
+          <span className="title-drop">Pools dashboard</span>
           <img
             src={arrow}
             alt="arrow"

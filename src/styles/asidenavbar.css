@@ -9,6 +9,7 @@
   align-items: flex-start;
   flex: 1 1 10%;
   overflow-y: auto;
+  overflow-x: hidden;
   z-index: 1000;
   margin-right: 30px;
 }
