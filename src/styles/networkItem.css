@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  outline: 1px solid #646464;
+  border: 1px solid #646464;
 }
 
 .tickets-container {
@@ -23,9 +23,11 @@
   justify-content: center;
   align-items: center;
   padding: 8px 0px;
+  box-sizing: border-box;
 }
 
 .bl {
+  height: 100%;
   border-left: 1px solid #646464;
 }
 .tickets-available-info {
