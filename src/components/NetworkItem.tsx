@@ -13,6 +13,8 @@ export interface INetworkItem {
 const NetworkItem = ({ network }: { network: INetworkItem }) => {
   return (
     <div className="network-item-container">
+      <span className="border-top-right"></span>
+      <span className="border-top-left"></span>
       <span className="network-name">{network?.name}</span>
       <div className="tickets-container">
         <article className="tickets-individual">

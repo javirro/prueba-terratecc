@@ -5,8 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   /* background-image: linear-gradient(180deg, #F6019D, #000); */
-   background: black;
+   background-image: linear-gradient(55deg, #F6019D , #000 );
    font-family: 'Inter', sans-serif;
    overflow-y: auto;
 }

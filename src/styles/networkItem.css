@@ -4,7 +4,55 @@
   justify-content: center;
   align-items: center;
   border: 1px solid #646464;
+  position: relative;
 }
+
+.network-item-container::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  border-bottom: 2px solid #f6019d;
+  border-right: 2px solid #f6019d;
+}
+
+.network-item-container::before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 0;
+  bottom: 0;
+  background: transparent;
+  border-bottom: 2px solid #f6019d;
+  border-left: 2px solid #f6019d;
+}
+
+.border-top-right {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  right: 0;
+  top: 0;
+  background: transparent;
+  border-top: 2px solid #f6019d;
+  border-right: 2px solid #f6019d;
+}
+
+.border-top-left {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 0;
+  top: 0;
+  background: transparent;
+  border-top: 2px solid #f6019d;
+  border-left: 2px solid #f6019d;
+}
+
 
 .tickets-container {
   display: flex;
