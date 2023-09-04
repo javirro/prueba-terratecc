@@ -5,8 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   background-image: linear-gradient(180deg, #F6019D, #000);
+   /* background-image: linear-gradient(180deg, #F6019D, #000); */
+   background: black;
    font-family: 'Inter', sans-serif;
+   overflow-y: auto;
 }
 
 code {

@@ -30,5 +30,53 @@
     "ticketsPercentage": "15%",
     "token": "BNB",
     "networkName": "Cronos"
+  },
+  {
+    "name": "Arbitrum",
+    "jackpot": "16000",
+    "tickets": "4,000",
+    "ticketsPercentage": "40%",
+    "token": "ARB",
+    "networkName": "ARB"
+  },
+  {
+    "name": "XRP",
+    "jackpot": "1000000",
+    "tickets": "4,000",
+    "ticketsPercentage": "40%",
+    "token": "XRP",
+    "networkName": "XRP"
+  },
+  {
+    "name": "Avalanche",
+    "jackpot": "10000",
+    "tickets": "1,500",
+    "ticketsPercentage": "15%",
+    "token": "AVAX",
+    "networkName": "AVAX"
+  },
+  {
+    "name": "Shibarium",
+    "jackpot": "2500000",
+    "tickets": "4,000",
+    "ticketsPercentage": "40%",
+    "token": "SHI",
+    "networkName": "SHI"
+  },
+  {
+    "name": "Litecoin",
+    "jackpot": "3000",
+    "tickets": "4,000",
+    "ticketsPercentage": "40%",
+    "token": "LTC",
+    "networkName": "LTC"
+  },
+  {
+    "name": "EOS",
+    "jackpot": "12000",
+    "tickets": "1,500",
+    "ticketsPercentage": "15%",
+    "token": "EOS",
+    "networkName": "EOS"
   }
 ]

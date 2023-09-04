@@ -5,6 +5,7 @@
   align-items: center;
   box-sizing: content-box;
   border-right: 1px solid white;
+  border-left: 1px solid white;
 }
 
 .chains-aside {
@@ -14,13 +15,22 @@
   align-items: flex-start;
   box-sizing: content-box;
   border-bottom: 1px solid white;
+  width: 100%;
 }
 
 .chains-title-line {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   gap: 10px;
+  flex: 1;
+}
+
+.flex-space-between {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
 }
 
 .delot-title-container {
@@ -37,7 +47,7 @@
   font-weight: 700;
   font-size: 28px;
   color: white;
-  text-shadow: 0 0 20px FF00A2;
+  text-shadow: 0 0 20px #FF00A2;
 }
 
 .list-text {
@@ -45,4 +55,15 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 2;
+}
+
+.arrow-img {
+  width: 24px;
+  cursor: pointer;
+}
+
+.arrow-img-inverse {
+  width: 24px;
+  cursor: pointer;
+  transform: rotate(180deg);
 }
