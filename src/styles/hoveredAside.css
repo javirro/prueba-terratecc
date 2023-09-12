@@ -23,7 +23,7 @@
 .chains-title-line {
   display: grid;
   grid-template-columns: 25px 160px 20px;
-    box-sizing: content-box;
+  box-sizing: content-box;
 }
 
 

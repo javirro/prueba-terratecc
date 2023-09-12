@@ -1,9 +1,9 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   margin-top: 20px;
   width: 100%;
+  gap: 650px;
 }
 
 .header-img {
@@ -21,6 +21,6 @@
   color: white;
   font-weight: bold;
   font-size: 18px;
-  box-shadow: 0 0 10px #6DF6FF;
+  box-shadow: 0 0 10px #6df6ff;
   cursor: pointer;
 }
